@@ -1,0 +1,8 @@
+git-repo: https://github.com/Mikael-Codes/ai-assistant
+google-txt-to-s: https://codelabs.developers.google.com/codelabs/cloud-text-speech-python3#0
+useful stuff: https://towardsdatascience.com/how-to-build-your-own-ai-personal-assistant-using-python-f57247b4494b
+
+videos:
+https://www.youtube.com/watch?v=OqFI_g8vAoc
+https://www.youtube.com/watch?v=VdI4IS_D6Q0
+https://www.youtube.com/watch?v=rf4Us01pvLk
